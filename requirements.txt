@@ -1,0 +1,7 @@
+werkzeug==2.2.2
+counterfit
+counterfit-connection
+counterfit-shims-picamera
+azure-cognitiveservices-vision-customvision
+mrest
+shapely
